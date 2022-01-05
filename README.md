@@ -6,5 +6,6 @@
   F: The-Toronto-Declaration_ENG_08-2018.pdf
   
 2.- An Extensive Study on Data Anonymization Algorithms Based on K-Anonymity 
+</br>
   f: An Extensive Study on Data Anonymization Algorithms Based on K-Anonymity.pdf
-  </br>
+  
