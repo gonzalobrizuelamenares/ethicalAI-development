@@ -10,14 +10,6 @@
   F: An Extensive Study on Data Anonymization Algorithms Based on K-Anonymity.pdf
   
   
-  
-  
-  
-  
-  
-  
-  
-  
   # Books
   
   1.- AI Ethics - By Mark Coeckelbergh
@@ -30,3 +22,13 @@
 1.- HIGH-LEVEL EXPERT GROUP ON ARTIFICIAL INTELLIGENCE
 </br>
 F: https://www.aepd.es/sites/default/files/2019-12/ai-definition.pdf
+
+# Philosophy
+
+1.- Computing and Moral Responsibility - Stanford
+</br>
+W:https://plato.stanford.edu/entries/computing-responsibility/
+
+2.- Moral Reasoning - Stanford
+</br>
+W: https://plato.stanford.edu/entries/reasoning-moral/
