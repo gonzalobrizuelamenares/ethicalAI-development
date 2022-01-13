@@ -9,3 +9,17 @@
 </br>
   f: An Extensive Study on Data Anonymization Algorithms Based on K-Anonymity.pdf
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  # Books
+  
+  1.- AI Ethics - By Mark Coeckelbergh
+  </br>
+  W: https://mitpress.mit.edu/books/ai-ethics
