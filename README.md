@@ -41,6 +41,72 @@ W: https://dl.acm.org/doi/10.1145/332040.332432
 </br>
 W: https://journals.sagepub.com/doi/full/10.1177/2053951716679679
 
+# Machine Learning / Modeling
+
+1.- Modelling the social dynamics of moral enhancement: social strategies sold over-the-counter and the stability of society*
+</br>
+W: https://ora.ox.ac.uk/objects/uuid:afeef153-75ff-4ccd-8298-e7b48f0b5893/download_file?file_format=pdf&safe_filename=Fabiano_and_Sandberg_2017.pdf&type_of_work=Journal+article
+
+2.- Image Representations Learned With Unsupervised Pre-Training Contain Human-like Biases
+</br>
+W: https://arxiv.org/abs/2010.15052
+
+3.- Socially Fair k-Means Clustering
+</br>
+W: https://arxiv.org/abs/2006.10085
+
+4.- The relationship between trust in AI and trustworthy machine learning technologies
+</br>
+W: https://arxiv.org/abs/1912.00782
+
+5.- The Social Cost of Strategic Classification
+</br>
+W:https://arxiv.org/abs/1808.08460
+
+6.- Towards Fair Deep Anomaly Detection
+</br>
+W: https://arxiv.org/abs/2012.14961
+</br>
+
+7.- Biases in Generative Art -- A Causal Look from the Lens of Art History
+</br>
+W: https://arxiv.org/abs/2010.13266
+
+8.- Can You Fake It Until You Make It?: Impacts of Di￿erentially Private Synthetic Data on Downstream Classification Fairness FAccT ’21
+</br>
+W:https://openreview.net/forum?id=Ov9804iqM6r
+
+9.- Designing an Online Infrastructure for Collecting AI Data From People With Disabilities
+</br>
+F: https://hci.stanford.edu/publications/2021/park_inclusiveAI/FAccT21_Inclusive_AI_Dataset.pdf
+
+10.- Evaluating Fairness of Machine Learning Models Under Uncertain and Incomplete Information
+</br>
+W: https://arxiv.org/abs/2102.08410
+
+11.- Towards Fairer Datasets: Filtering and Balancing the Distribution of the People Subtree in the ImageNet Hierarchy
+</br>
+W: https://arxiv.org/abs/1912.07726
+
+# BIAS
+
+1.- The Anatomy of Bias  How Neural Circuits Weigh the Options 
+</br>
+W: https://mitpress.mit.edu/books/anatomy-bias
+
+2.- Bias in Computer Systems
+</br>
+F: https://nissenbaum.tech.cornell.edu/papers/Bias%20in%20Computer%20Systems.pdf
+
+3.- Bias in algorithmic filtering and personalization
+</br>
+W: https://link.springer.com/article/10.1007/s10676-013-9321-6  
+
+4.-  Algorithmic Bias 
+</br>
+W: https://articlegateway.com/index.php/JLAE/article/view/170
+
+
 # Guides, Manual and Best Practices
 
 1.- “Digital Transformation and Ethics” by Kirchschläger
@@ -73,6 +139,16 @@ W: https://plato.stanford.edu/entries/reasoning-moral/
 3.- Virtue Ethics - Stanford
 </br>
 W: https://plato.stanford.edu/entries/ethics-virtue/
+
+
+# Transhumanism
+
+1.- Unnatural Selection: The Challenges of Engineering Tomorrow's People (The Earthscan Science in Society Series) 
+W: https://www.amazon.co.uk/d/cka/Unnatural-Selection-Challenges-Engineering-Tomorrows-Earthscan-Science/1844076229
+
+2.- Whole Brain Emulation A Roadmap
+W: http://www.fhi.ox.ac.uk/reports/2008-3.pdf
+
 
 
 # Books
