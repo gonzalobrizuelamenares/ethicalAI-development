@@ -41,6 +41,10 @@ W: https://dl.acm.org/doi/10.1145/332040.332432
 </br>
 W: https://journals.sagepub.com/doi/full/10.1177/2053951716679679
 
+11.- Algorithmic Equity Toolkit – ACLU Washington
+</br>
+W: https://www.aclu-wa.org/AEKit
+
 # Machine Learning / Modeling
 
 1.- Modelling the social dynamics of moral enhancement: social strategies sold over-the-counter and the stability of society*
