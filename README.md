@@ -45,6 +45,10 @@ W: https://journals.sagepub.com/doi/full/10.1177/2053951716679679
 </br>
 W: https://www.aclu-wa.org/AEKit
 
+12.- Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights - based Approaches to Principles for AI 
+<br>
+W: https://dash.harvard.edu/bitstream/handle/1/42160420/HLS%20White%20Paper%20Final_v3.pdf?sequence=1&isAllowed=y
+
 # Machine Learning / Modeling
 
 1.- Modelling the social dynamics of moral enhancement: social strategies sold over-the-counter and the stability of society*
@@ -92,6 +96,10 @@ W: https://arxiv.org/abs/2102.08410
 </br>
 W: https://arxiv.org/abs/1912.07726
 
+12.- A Moral Framework for Understanding Fair ML through Economic Models of Equality of Opportunity
+<br>
+W: https://las.inf.ethz.ch/files/fat-main.pdf
+
 # BIAS
 
 1.- The Anatomy of Bias  How Neural Circuits Weigh the Options 
@@ -121,12 +129,20 @@ W: https://sbeonline.org/2021/08/kirchschlager/
 </br>
 W: https://static1.squarespace.com/static/5d387c126be524000116bbdb/t/5d77e37092c6df3a5151c866/1568138185862/Ethics-of-artificial-intelligence.pdf
 
+3.- Everyday Ethics for Artificial Intelligence - IBM
+</br>
+W: https://www.ibm.com/watson/assets/duo/pdf/everydayethics.pdf
+
 
 # Law / Politics
 
 1.- HIGH-LEVEL EXPERT GROUP ON ARTIFICIAL INTELLIGENCE
 </br>
   F: https://www.aepd.es/sites/default/files/2019-12/ai-definition.pdf
+  
+2.- Understanding artificial intelligence ethics and safety: A guide for the responsible design and implementation of AI systems in the public sector
+</br>
+W: https://zenodo.org/record/3240529#.YfBGj2AyFTb
 
 
 # Philosophy
